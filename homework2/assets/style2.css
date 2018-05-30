@@ -1,0 +1,145 @@
+body {
+  background-image: url('../images/wallpaper.png');
+  padding: 0;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+.aboutWrapper,
+.portfolioWrapper,
+.contactWrapper {
+  margin-bottom: 100px;
+}
+
+/* NAVBAR */
+.icon-bar {
+  color: #fff !important;
+  background-color: #fff !important;
+}
+
+.collapse {
+  color: #fff !important;
+}
+
+#myNavBar {
+  color: #fff;
+}
+
+
+.nameHeader {
+  background-color: #4aaaa5;
+  padding: 5px;
+  width: auto;
+  text-align: center;
+}
+
+.navbar-default .navBrandTitle {
+  color: #fff;
+  margin: 0 auto;
+  font-size: 30px;
+  padding: 10px 14px;
+}
+
+.navbar,
+.navbar-default {
+  padding: 0;
+}
+
+.navStyle {
+  border-bottom: solid 4px #ccc;
+}
+
+/* NAVBAR END */
+
+/* CONNECT LINKS */
+
+.stackOver-icon,
+.github-icon,
+.linkedin-icon {
+  background-size: 60px;
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+
+
+.stackOver-icon {
+  background-image: url('../images/stackoverflow-icon.png');
+}
+
+.linkedin-icon {
+  background-image: url('../images/linkedin-icon.png');
+}
+
+.github-icon {
+  background-image: url('../images/github-icon.png');
+}
+
+.connectLinksWrapper {
+  margin-bottom: 80px;
+}
+
+/* END CONNECT LINKS */
+
+
+/* FOOTER */
+
+.footer {
+  background-color: #666;
+  width: 100%;
+  height: 60px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  clear: both;
+  position: fixed;
+  margin-top: 50px;
+  border-top: solid 14px #4aaaa5;
+}
+
+.footer-text {
+  color: #fff;
+  line-height: 45px;
+  font-size: 16px;
+}
+
+/* END FOOTER */
+
+/* ABOUT WRAPPER */
+
+.aboutWrapper {
+  background-color: #fff;
+  padding: 0 40px 40px 40px;
+
+  border: #b0b1b2 1px solid;
+  border-radius: 5px;
+}
+
+
+/* END ABOUT WRAPPER */
+
+/* PORTFOLIO WRAPPER */
+
+.portfolioWrapper {
+  background-color: #fff;
+  padding: 0 40px 40px 40px;
+  border: #b0b1b2 1px solid;
+  border-radius: 5px;
+}
+
+/* END PORTFOLIO WRAPPER */
+
+
+/* CONTACT WRAPPER */
+.contactWrapper {
+  background-color: #fff;
+  padding: 0 40px 40px 40px;
+  border: #b0b1b2 1px solid;
+  border-radius: 5px;
+}
+
+
+/* END CONTACT WRAPPER */
